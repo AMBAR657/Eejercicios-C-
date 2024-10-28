@@ -1,2 +1,2 @@
-# Eejercicios-C-
+# Eejercicios_C++
 Pequeños ejercicios en c++
