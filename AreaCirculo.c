@@ -9,7 +9,7 @@ int main(){
 	double area = pi * (d/2)*(d/2);
 	//imprimimos el area 
 	printf("%f",area);
-	
+	// este es para un dalto de liea 
 	printf ("\n");
 	system("Pause");
 	return 0;
