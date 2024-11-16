@@ -3,7 +3,7 @@
 #include <stdlib.h>
 //empieza a ejecutarse nuestro programa 
 int main(){
-	//declaramos las variables 
+	//declaramos las variables, se devlaran en double para los numeros devimales y aparte esas variables estan predefinidas
     double d=10;
 	double pi= 3.1416;
 	double area = pi * (d/2)*(d/2);
