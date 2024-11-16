@@ -1,7 +1,7 @@
 //declaramos las linrerias wue vamos a utilizar 
 #include <stdio.h>
 #include <stdlib.h>
-
+// decoaramos las finciones que vamos a ocupar 
 int main(){
     int cal;
     scanf(" %d", &cal);
