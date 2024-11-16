@@ -1,7 +1,9 @@
+// mandamos llamar las librerias que vamos a ocupar 
 #include <stdio.h>
 #include <stdlib.h>
 
 int main(){
+    //devlaramos nuestra s variables
     int a;
     int b;
     int c;
