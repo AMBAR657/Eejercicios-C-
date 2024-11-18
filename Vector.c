@@ -1,6 +1,7 @@
+// importamos las librerias 
 #include <stdio.h>
 #include <stdlib.h>
-
+//tenemos nuetra fincion principal 
 int main(){
     int vector[10];
     int i=0;
