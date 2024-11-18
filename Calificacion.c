@@ -9,6 +9,7 @@ int main(){
     scanf(" %d", &cal);
     //vamos a validar que si nuetra calificacion es igual o mayor a esa 
     if(cal>=8){
+        //imprimimos la calificacion con un texto de felicidades 
         printf("Felicidades aprobaste el curso \n");
     }
     system("Pause");
