@@ -1,3 +1,4 @@
+// inclumos librerias 
 #include <stdio.h>
 #include <stdlib.h>
 
