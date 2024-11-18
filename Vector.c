@@ -15,7 +15,8 @@ int main(){
         printf("%d \n", vector[i]);
         i++;
     }
-    
+    //le decimos que se va a pausar 
     system("Pause");
+    //nos va a retornar un 0
     return 0;
 }
