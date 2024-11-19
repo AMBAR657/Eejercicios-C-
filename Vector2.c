@@ -14,6 +14,7 @@ int main(){
         printf("\n");
         i++;
     }
+    // pausamos el programa 
     system("Pause");
     return 0;
 }
