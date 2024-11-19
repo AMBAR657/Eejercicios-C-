@@ -6,6 +6,7 @@ int main(){
     int vector[100];
     int i=0;
     int r;
+    // tenemos nuestro ciclo while 
     while(i<=100){
         r=100-i;
         vector[i]=r;
