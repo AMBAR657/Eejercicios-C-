@@ -1,7 +1,7 @@
 //incluimos las librerías 
 #include <stdio.h>
 #include <stdlib.h>
-
+// tenemos nuestro metodo principal
 int main(){
     int vector[100];
     int i=0;
