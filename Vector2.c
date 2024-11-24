@@ -7,6 +7,7 @@ int main(){
     int vector[100];
     //vamos a inivializar nuetra variable en 0
     int i=0;
+    //declaramos la variable r
     int r;
     // tenemos nuestro ciclo while 
     while(i<=100){
