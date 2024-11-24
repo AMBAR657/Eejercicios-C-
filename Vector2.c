@@ -5,6 +5,7 @@
 int main(){
     //declaramos los vectores en tipo entero y va a llegar hasta el lugar 100
     int vector[100];
+    //vamos a inivializar nuetra variable en 0
     int i=0;
     int r;
     // tenemos nuestro ciclo while 
