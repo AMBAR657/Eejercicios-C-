@@ -3,6 +3,7 @@
 #include <stdlib.h>
 // tenemos nuestro metodo principal
 int main(){
+    //declaramos los vectores en tipo entero y va a llegar hasta el lugar 100
     int vector[100];
     int i=0;
     int r;
