@@ -13,6 +13,7 @@ int main(){
         r=100-i;
         vector[i]=r;
         printf("Vector[%d]= %d ", i, vector[i]);
+        //vamos a imprimir un salto de linea 
         printf("\n");
         i++;
     }
