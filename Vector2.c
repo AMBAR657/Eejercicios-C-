@@ -9,6 +9,7 @@ int main(){
     int r;
     // tenemos nuestro ciclo while 
     while(i<=100){
+        //vamos a decir que se tiene que ir redtando la variable que se ingreso 
         r=100-i;
         vector[i]=r;
         printf("Vector[%d]= %d ", i, vector[i]);
