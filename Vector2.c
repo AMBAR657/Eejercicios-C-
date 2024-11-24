@@ -21,5 +21,6 @@ int main(){
     }
     // pausamos el programa 
     system("Pause");
+    //nos va a retornar un 0
     return 0;
 }
