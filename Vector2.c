@@ -12,6 +12,7 @@ int main(){
     while(i<=100){
         //vamos a decir que se tiene que ir redtando la variable que se ingreso 
         r=100-i;
+        //al final la posicion la va a huardar en la variable r
         vector[i]=r;
         printf("Vector[%d]= %d ", i, vector[i]);
         //vamos a imprimir un salto de linea 
