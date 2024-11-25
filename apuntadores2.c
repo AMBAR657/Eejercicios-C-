@@ -7,6 +7,7 @@ int main(void){
     int i,n;
     //creamos nuetro apuntadores com un asterisco antes del nombre del apuntador
     int *buffer, *p_buffer;
+    //vamos a pedir por tevlado que ingrese la longitud de nuetro arreglo 
     printf("Teclea la longitud del arreglo: ");
     scanf("%d",&n);
 
