@@ -3,6 +3,7 @@
 #include <stdlib.h>
 //tenemos nuetro metodo 
 int main(void){
+    //
     int i,n;
     int *buffer, *p_buffer;
     printf("Teclea la longitud del arreglo: ");
