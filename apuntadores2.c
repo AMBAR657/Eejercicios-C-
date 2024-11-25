@@ -1,7 +1,7 @@
 //integramos las libreroas que vamos a utilizar 
 #include <stdio.h>
 #include <stdlib.h>
-
+//tenemos nuetro metodo 
 int main(void){
     int i,n;
     int *buffer, *p_buffer;
