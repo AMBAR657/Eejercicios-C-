@@ -3,7 +3,7 @@
 #include <stdlib.h>
 //tenemos nuetro metodo 
 int main(void){
-    //
+    //declaramos nietras variable i y la variable n de tipo entero 
     int i,n;
     int *buffer, *p_buffer;
     printf("Teclea la longitud del arreglo: ");
