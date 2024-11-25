@@ -5,6 +5,7 @@
 int main(void){
     //declaramos nietras variable i y la variable n de tipo entero 
     int i,n;
+    //creamos nuetro apuntadores com un asterisco antes del nombre del apuntador
     int *buffer, *p_buffer;
     printf("Teclea la longitud del arreglo: ");
     scanf("%d",&n);
