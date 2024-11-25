@@ -10,6 +10,7 @@ int main(void){
     //vamos a pedir por tevlado que ingrese la longitud de nuetro arreglo 
     printf("Teclea la longitud del arreglo: ");
     scanf("%d",&n);
+    //vamos a crear nuestro vuerpo y el procedimirnto que vamos a ocupar
 
     buffer = (int*) malloc((n)* sizeof(int));
     if(buffer==NULL) exit(1);
