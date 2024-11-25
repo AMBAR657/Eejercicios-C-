@@ -9,6 +9,7 @@ int main(void){
     int *buffer, *p_buffer;
     //vamos a pedir por tevlado que ingrese la longitud de nuetro arreglo 
     printf("Teclea la longitud del arreglo: ");
+    //vamos hacer saltos de linea 
     scanf("%d",&n);
     //vamos a crear nuestro vuerpo y el procedimirnto que vamos a ocupar
 
