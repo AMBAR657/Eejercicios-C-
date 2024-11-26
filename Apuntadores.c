@@ -1,3 +1,5 @@
+
+//mandmaos llamar nuetras librerias
 #include <stdio.h>
 #include <string.h>
 
