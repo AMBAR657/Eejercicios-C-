@@ -14,6 +14,7 @@ void func(){
 int main(void){
     func();
     y=*p;
+    //devimos que nuestro apuntador va a ser igual que 25
     *p=25;
     //imprimimos el resultado
     printf("El valor de y es %d \nEl valor de *p es %d\nEl valor de p es %p", y, *p, p);
