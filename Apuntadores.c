@@ -2,7 +2,7 @@
 //mandmaos llamar nuetras librerias
 #include <stdio.h>
 #include <string.h>
-
+//tenemos nuestro método principal 
 int main(){
 int x=17,y;
 int *p;
