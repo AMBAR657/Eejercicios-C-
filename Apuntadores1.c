@@ -6,6 +6,7 @@ int *p, y;
 void func(){
     //declaramos nuestra variable de tipo entero que va a ser igual a 400
     int x=40;
+    //seguimos declarando las vatiables 
     p=&x;
     y=*p;
     *p=23;
