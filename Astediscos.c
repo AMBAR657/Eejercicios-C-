@@ -5,6 +5,7 @@
 int main(){
     //devlaramos nuestra s variables
     int a;
+    //declaramos la variable b
     int b;
     int c;
     printf("(1 a N) Ingresa un numero entero: ");
