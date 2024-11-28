@@ -7,6 +7,7 @@ int main(){
     int a;
     //declaramos la variable b
     int b;
+    //devlaramos la varianle c
     int c;
     printf("(1 a N) Ingresa un numero entero: ");
     scanf("%d", &c);
