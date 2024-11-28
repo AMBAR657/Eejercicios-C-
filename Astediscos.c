@@ -9,6 +9,7 @@ int main(){
     int b;
     //devlaramos la varianle c
     int c;
+    //se va a ingresar un numero del 1 al n pero que sea entero 
     printf("(1 a N) Ingresa un numero entero: ");
     scanf("%d", &c);
     for(int a=1; a<=c;a++){
