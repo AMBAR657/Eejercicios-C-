@@ -13,6 +13,7 @@ int main(){
     printf("(1 a N) Ingresa un numero entero: ");
     //hacemos saltos de linea 
     scanf("%d", &c);
+    //declaramos nuetro ciclo for
     for(int a=1; a<=c;a++){
         for(int b=1;b<=a;b++){
             printf("*");
