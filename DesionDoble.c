@@ -5,6 +5,7 @@
 int main(){
     //tenemos nuetra variable numero
     int numero =98;
+    //tenemos nuestro ciclo for
     if(numero <50)
     printf("El numero es menor que 50");
     else
