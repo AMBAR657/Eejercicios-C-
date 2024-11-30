@@ -9,6 +9,7 @@ int main(){
     if(numero <50)
     printf("El numero es menor que 50");
     else
+        //imprimimos que numero es mayor 
     printf("El numero es mayor que 50 \n");
     printf("Fin del programa \n");
     system("Pause");
