@@ -3,6 +3,7 @@
 #include <stdlib.h>
 //tenemos nuestro metodo main 
 int main(){
+    //tenemos nuetra variable numero
     int numero =98;
     if(numero <50)
     printf("El numero es menor que 50");
