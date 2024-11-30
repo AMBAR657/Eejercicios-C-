@@ -1,7 +1,7 @@
 //importamos las librerias 
 #include <stdio.h>
 #include <stdlib.h>
-
+//tenemos nuestro metodo main 
 int main(){
     int numero =98;
     if(numero <50)
