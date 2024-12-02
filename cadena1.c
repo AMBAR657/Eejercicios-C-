@@ -1,3 +1,4 @@
+//mandamos llamar las librerias 
 #include <stdio.h>
 #include <stdlib.h>
 
