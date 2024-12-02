@@ -5,6 +5,7 @@
 int main(){
     //vamos a tener nuetra cadena de tipo char
     char cad[]="Es una cadena";
+    //vamos a imprimir con espacios 
     printf("%s \n", cad);
     system("Pause");
     return 0;
