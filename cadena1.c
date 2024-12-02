@@ -8,6 +8,7 @@ int main(){
     //vamos a imprimir con espacios 
     //vamos a imprimir lo que contenga cad
     printf("%s \n", cad);
+    //vamos a pausar nuetra ejecucion 
     system("Pause");
     return 0;
 }
