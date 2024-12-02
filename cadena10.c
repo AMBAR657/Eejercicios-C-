@@ -1,7 +1,7 @@
 //importamos librerias
 #include <stdio.h>
 #include <string.h>
-
+//metodo principal
 int main(){
     int res;
     char str1[30];
