@@ -1,3 +1,4 @@
+//importamos librerias
 #include <stdio.h>
 #include <string.h>
 
