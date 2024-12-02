@@ -6,7 +6,7 @@ int main(){
     int res;
     char str1[30];
     char str2[30];
-
+//impresiones
     printf("Ingrese la primera palabra: ");
     scanf("%s", str1);
 
