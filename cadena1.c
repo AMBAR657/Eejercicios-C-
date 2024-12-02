@@ -10,5 +10,6 @@ int main(){
     printf("%s \n", cad);
     //vamos a pausar nuetra ejecucion 
     system("Pause");
+    //nos va a retornar 0
     return 0;
 }
