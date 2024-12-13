@@ -1,7 +1,7 @@
 //integramos las librerias
 #include <stdio.h>
 #include <stdlib.h>
-
+//funcion principal
 int main(){
     int n,i;
 
