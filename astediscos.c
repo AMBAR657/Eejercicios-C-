@@ -5,7 +5,7 @@
 int main(){
     //declaramos las variables, n u i
     int n,i;
-
+//declaramos la forma de imprimir el mensaje 
     printf("Ingresa un numero");
     scanf("%d",&n);
 
