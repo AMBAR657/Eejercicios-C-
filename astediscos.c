@@ -7,6 +7,7 @@ int main(){
     int n,i;
 //declaramos la forma de imprimir el mensaje 
     printf("Ingresa un numero");
+    //damos salto de linea 
     scanf("%d",&n);
 
     for(n=0;n<=i;n++){
