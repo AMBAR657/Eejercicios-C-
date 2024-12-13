@@ -3,6 +3,7 @@
 #include <stdlib.h>
 //funcion principal
 int main(){
+    //declaramos las variables, n u i
     int n,i;
 
     printf("Ingresa un numero");
