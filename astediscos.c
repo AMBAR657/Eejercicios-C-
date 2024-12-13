@@ -9,7 +9,7 @@ int main(){
     printf("Ingresa un numero");
     //damos salto de linea 
     scanf("%d",&n);
-
+//tenemos nuetro ciclo for
     for(n=0;n<=i;n++){
 
         }
