@@ -11,7 +11,7 @@ int main(){
     scanf("%d",&n);
 //tenemos nuetro ciclo for
     for(n=0;n<=i;n++){
-
+//cerramos los ciclos for 
         }
 
     }
