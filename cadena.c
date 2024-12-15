@@ -9,6 +9,7 @@ int main(){
     printf("Introduce una palabra \n");
     //damos un dalto de linea 
     scanf("%s", cad);
+    //tenemos otra impresión 
     printf("%s", cad);
     return 0;
 }
