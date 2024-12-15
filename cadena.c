@@ -7,6 +7,7 @@ int main(){
     char cad[10];
     //tenemos niestra primera impresión 
     printf("Introduce una palabra \n");
+    //damos un dalto de linea 
     scanf("%s", cad);
     printf("%s", cad);
     return 0;
