@@ -11,5 +11,6 @@ int main(){
     scanf("%s", cad);
     //tenemos otra impresión 
     printf("%s", cad);
+    //retornamos
     return 0;
 }
