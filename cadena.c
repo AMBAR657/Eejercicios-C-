@@ -5,6 +5,7 @@
 int main(){
     //tenemos niestra variable tipo chat
     char cad[10];
+    //tenemos niestra primera impresión 
     printf("Introduce una palabra \n");
     scanf("%s", cad);
     printf("%s", cad);
