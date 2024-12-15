@@ -3,6 +3,7 @@
 #include <stdlib.h>
 //tenemos nuestro metodo principal
 int main(){
+    //tenemos niestra variable tipo chat
     char cad[10];
     printf("Introduce una palabra \n");
     scanf("%s", cad);
