@@ -4,6 +4,7 @@
 //tenemos nuestro metodo principal 
 
 int main(){
+    //tenemos nuetra variable char
     char palabra[100];
     int i,longitud,polindromo=0;
     printf("Ingrese la primera palabra: ");
