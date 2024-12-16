@@ -15,6 +15,7 @@ int main(){
     longitud=strlen(palabra);
     //ciclo for
     for(i=0;i<longitud;i++){
+        //imprimimos
         if(palabra[i]!=palabra[longitud-i-1]){
             polindromo=1;
             break;
