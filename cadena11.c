@@ -13,6 +13,7 @@ int main(){
     scanf("%s", &palabra);
 
     longitud=strlen(palabra);
+    //ciclo for
     for(i=0;i<longitud;i++){
         if(palabra[i]!=palabra[longitud-i-1]){
             polindromo=1;
