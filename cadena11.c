@@ -8,6 +8,7 @@ int main(){
     char palabra[100];
     //delimitamos longitudes
     int i,longitud,polindromo=0;
+    //imprimimso
     printf("Ingrese la primera palabra: ");
     scanf("%s", &palabra);
 
