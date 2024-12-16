@@ -1,6 +1,7 @@
 //mandamos llamar nuestras librerías 
 #include <stdio.h>
 #include <string.h>
+//tenemos nuestro metodo principal 
 
 int main(){
     char palabra[100];
